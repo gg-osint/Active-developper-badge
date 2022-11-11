@@ -8,7 +8,7 @@ Creer un bot discord avec les tout les intents sur https://discord.com/developer
 Inviter le bot dans un serveur (aouth, bot & application.commands)
 
 # 3
-Modifier le config.json
+Modifier le config.json en metant votre token a "token" ou "env" si vous voulez utiliser le token en environnement
 
 # 4
 Lancer le code du git
